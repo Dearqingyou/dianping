@@ -1,0 +1,19 @@
+{
+    "version": "2.0",
+    "configurations": [
+        {
+            "request": "launch",
+            "type": "javadbg",
+            "name": "HmDianPingApplication (com.hmdp)",
+            "withProfiling": true,
+            "skipBuild": false,
+            "mainClass": {
+                "name": "com.hmdp.HmDianPingApplication",
+                "sourcePath": "d:\\tip\\software\\code\\redis\\hm-dianping\\src\\main\\java\\com\\hmdp\\HmDianPingApplication.java",
+                "console": "integrated"
+            },
+            "temporary": true
+        }
+    ],
+    "compounds": []
+}
